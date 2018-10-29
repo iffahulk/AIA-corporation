@@ -29,6 +29,8 @@ All source are from :
 2) https://www.google.com.my/
 3) https://www.w3schools.com/
 
+PROJECT LINK : file:///C:/Users/Siti%20Nur%20Solehah/Desktop/DEGREE/1%201819/WEBTECH/project/p1.html
+
 PICTURES :
 
 1) "wood1.jpg"
