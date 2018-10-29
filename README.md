@@ -23,3 +23,9 @@ FUTURE ENHANCEMENTS :
 3)adding button on reading the total prices
 4)adding background pictures
 5)adjust font size and colours
+
+All source are from :
+1) https://getbootstrap.com/
+2) https://www.google.com.my/
+3) https://www.w3schools.com/
+
